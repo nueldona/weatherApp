@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # weather-app
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# weatherApp
+>>>>>>> e3039aceceb73e8f0ab9525f995375fd3f94c006
